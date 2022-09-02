@@ -1,6 +1,6 @@
 dsadasda git
 !
-:wq
+:wq hello
 
 
 
