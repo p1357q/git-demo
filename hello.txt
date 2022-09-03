@@ -1,5 +1,5 @@
-dsadasda gitllllldsakd
 xiugai
+dsadasda git  ffaf：sa：
 !
 :wq hello
 
@@ -20,5 +20,4 @@ maser  hello.txt
 
 
 
-das
-
+dhuhhas
